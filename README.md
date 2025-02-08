@@ -1,14 +1,49 @@
-<h1 align="center">Hi 👋, I'm Lakshya Kumar</h1>
-<h3 align="center">A passionate Python & Machine Learning developer from India</h3>
+# Welcome to My GitHub Profile 👋
 
-- 🔭 I’m currently working on **Customer Prediction**
+![Profile Image](https://example.com/path-to-your-image.jpg)  
+_A small introduction about yourself_
 
-- 🌱 I’m currently learning **Pandas, Django ,Numpy**
+## 👨‍💻 About Me
+I'm a software developer passionate about open-source projects. I enjoy learning new technologies and collaborating with others.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshya-kumar-300262341/?trk=opento_sprofile_topcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshya-kumar-300262341/?trk=opento_sprofile_topcard" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on an exciting project.
+- 🌱 I’m learning Data Science and Machine Learning.
+- 💬 Ask me about JavaScript, Python, or AI!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical)
+
+## 📈 My Contribution Graph
+![My Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=react-dark)
+
+## 🚀 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![Pyplot](https://img.shields.io/badge/-Matplotlib-008C42?style=plastic&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-6A8D73?style=plastic&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=white)
+![Pyplot](https://img.shields.io/badge/-Matplotlib-008C42?style=plastic&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=plastic&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+
+
+
+## 🧑‍💻 Projects
+- [Project 1](https://github.com/your-github-username/project1) - Description of Project 1.
+- [Project 2](https://github.com/your-github-username/project2) - Description of Project 2.
+
+## 📫 How to reach me:
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+- Twitter: [@yourusername](https://twitter.com/yourusername)
